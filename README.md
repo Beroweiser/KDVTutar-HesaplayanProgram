@@ -1,0 +1,2 @@
+# KDVTutar-HesaplayanProgram
+patika.dev
